@@ -322,7 +322,9 @@ ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a
 
 .portfolio-modal .modal-content p {margin-bottom:30px; font-size: 16px;}
 
-.portfolio-modal .modal-content ul {margin-bottom:30px; font-size: 16px;}
+.portfolio-modal .modal-content ul {margin-bottom:10px; font-size: 16px;}
+
+.portfolio-modal .modal-content ol {margin-bottom:5px; font-size: 16px;}
 
 .portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-style:italic;font-size:16px}
 
